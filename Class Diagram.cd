@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Forklift">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAhAAqgBBAAAAAAAAUABAgAAAEhQAABAAAAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\Forklift\Forklift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ForkliftController">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQCAhAAIEREAJSAiQEhQAIEyBgCBIAACANAgUA=</HashCode>
+      <FileName>Assets\Scripts\Forklift\ForkliftController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ForkliftStatus">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQQAAAAAAAAADAIAgABAAAAAAAQAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Static Class\ForkliftStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="GameManager.GameStage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Game Manager\GameManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="GameManager.Lesson" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Game Manager\GameManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAQAIAgAACAAAAACAAAAAEgRAABAgQAAAAAAgABIAMA=</HashCode>
+      <FileName>Assets\Scripts\Game Manager\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarningDetect">
+    <Position X="12.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA4AAAAEAKGAgAAFAAEAASACgQAAAACAAkQgMAgQ+BE=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\WarningDetect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="17.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAABCAgAAAAAAAACAQABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SQL\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnloadArea">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAjAAABAAAAAACAAAABAAAIAARAAAACEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\UnloadArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlHandler">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQQAEgAgCAAAAAEARAAAEMENABAAAACEAAAgwABkEA=</HashCode>
+      <FileName>Assets\Scripts\SQL\SqlHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwgAAAAACIAAAgAAAAoAAQAAAAAAEAAAAAAtgEAAEA=</HashCode>
+      <FileName>Assets\Scripts\Game Manager\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scoreboard">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SQL\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManager">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQIAAAAAKALAAAABAGACQAQIAAMAICAoAAAAACBLQA=</HashCode>
+      <FileName>Assets\Scripts\Input Manager\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson">
+    <Position X="17.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\SQL\Lesson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LessonRecord">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAMQAGAAgAAAgAAAAEAAwAAAAAAAAAQAAAQAAARAA=</HashCode>
+      <FileName>Assets\Scripts\SQL\LessonRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginUser">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAJCAgAAAAAAAACAQABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Static Class\LoginUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameRule">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAEggAABBAEMEAAAAAAAACAAAgQACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Static Class\GameRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ForkCollision">
+    <Position X="2.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\ForkCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueManager">
+    <Position X="12.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARAAAAiACAAABAABAAAAAAAAAAAAAAAIABAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Dialogue\DialogueManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueTrigger">
+    <Position X="16.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Dialogue\DialogueTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogue">
+    <Position X="14.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Dialogue\Dialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController">
+    <Position X="6.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAECAAAAAAAAgAAIAAAAAAAAAgAAAAAQAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoader">
+    <Position X="4.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scene Loader\SceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishCollider">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEUBEAQAAjAhQBAARJAACAAAAJAAkMAlRAIAACBAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\FinishCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyboardDebug">
+    <Position X="8.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEQQQAAABRAAAAABBEAAAAAgBAAAIAADAATAIAAAAUw=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\KeyboardDebug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainLoader">
+    <Position X="4.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAACAAABACAAAAAAAAAgAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Game Logic\MainLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneSwitcher">
+    <Position X="2.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAABAIAQBAAAAIAAoAAAABAABAA=</HashCode>
+      <FileName>Assets\Scripts\Scene Loader\SceneSwitcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SteeringWheel">
+    <Position X="6.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAUBAAAoAABAAAAABAAIAAQABEAggAQhAAQIAAAwA=</HashCode>
+      <FileName>Assets\Scripts\Forklift\SteeringWheel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

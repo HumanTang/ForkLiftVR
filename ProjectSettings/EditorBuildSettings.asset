@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Start/Preload.unity
+    guid: 262a5b339b73d2642bba80f24285f359
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/00_MainMenu.unity
+    guid: d3ae9f7ec596961439924abaadd14484
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/01_SimpleQuery.unity
+    guid: 231169a776cdf93438a6127e94116c35
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/02_ComplexQuery.unity
+    guid: 75c07e6ace008fc43a4cfd99e4b4293e
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/03_Insert.unity
+    guid: eaecbac564f68f245af7f9b7cc1e3e41
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/04_UpdateDelete.unity
+    guid: 5ef4dd8abd69dbf4aa4d61de29d33ec9
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/05_CreateAlterAndDropTable.unity
+    guid: 9ae46d2c859e81e4cb655bad5dc00460
+  - enabled: 1
+    path: Assets/SimpleSQL/Demos/06_SimpleTable.unity
+    guid: 0890bd3cce87749a1a70e18575793e72
+  - enabled: 1
+    path: Assets/Scene/Lesson/Stage1.unity
+    guid: c1423a9a0755035499036209197ebe82
+  - enabled: 1
+    path: Assets/Scene/Lesson/Lesson1.unity
+    guid: 7d9e48c2b076d44458ccb4d6cef0b40d
+  - enabled: 1
+    path: Assets/Scene/Lesson/Lesson2.unity
+    guid: a6a9d2399e40b9e40b298a313cd5ffac
+  - enabled: 1
+    path: Assets/Scene/Lesson/Lesson3.unity
+    guid: 9b5d3e8eb816200489050ff5f27e83a8
+  - enabled: 1
+    path: Assets/Scene/Lesson/Lesson4.unity
+    guid: 0fd03cd2d5f12874d91b544d7bc14cc3
+  - enabled: 1
+    path: Assets/Scene/Start/Start Screen.unity
+    guid: da3304e2ab9ccca42847a725b2ee839a
+  - enabled: 1
+    path: Assets/Scene/Result/GameResult.unity
+    guid: 7ddbbb97d3dea4b4b803b17c4ea04b31
+  - enabled: 1
+    path: Assets/Scene/Lesson/WareHouse.unity
+    guid: 31604dcf4e077154e8cc415ea0e99860
+  - enabled: 1
+    path: Assets/Scene/SQL.unity
+    guid: 5e09b0aac99afd64589021f915f6f1b3
+  - enabled: 1
+    path: Assets/Scene/Scoreboard.unity
+    guid: f80edba475b62f14abc53187ff30bd82
+  m_configObjects: {}

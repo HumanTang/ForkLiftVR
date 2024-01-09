@@ -1,0 +1,1 @@
+START /d "D:\kinect-2-background-removal\KinectBackgroundRemoval\bin\x64\Release\" KinectBackgroundRemoval.exe

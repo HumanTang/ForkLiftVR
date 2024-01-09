@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrforklift.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\VR ForkLift 19 June Home Edition\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR ForkLift [Testing]"
+        }
+      }
+    }
+  ]
+}
